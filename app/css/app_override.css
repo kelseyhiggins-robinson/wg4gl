@@ -1,5 +1,5 @@
 body {
-	background-color: ##F2F2F2
+	background-color: #17A3A5;
 	color: white;
 }
 
@@ -23,77 +23,53 @@ body {
 }
 
 .fixed, .topNav {
-	background: rgba(176,216,64,0.5);
+	background: #B7D9DB;
 	font-size: .95rem;
 	color: white;
 
 }
 
 .sub-nav dd.active a {
-	background: #383560;
+	background: #25215D;
 }
 
 .row {
 	max-width: 100%;
-	padding: 10px;
+	padding: 20px;
 	margin: 40px 0;
 }
 
-.mission, .services {
-	margin-top: 60px;
-	height:	200px;
-}
 .mission, .services, .contact {
-	background-color: #E6E6E6;
-	
-}
-
-.mission .columns {
-	padding: 40px 25px;
-	margin-top: -34px;
-	background-color: rgba(207,28,238,0.5);
+	background-color: #B7D9DB;
 }
 
 h3 {
-	color: #383560;
+	color: #25215D ;
 }
 
-.advising{
-	padding: 72px 25px;
-	margin-top: -30px;
-	margin-right:1px;
-	background-color: rgba(207,28,238,0.5);
+.services .medium-2 {
+	border-right: 1px solid #faf6eb;
 }
-
-.academic {
-	padding: 72px 25px;
-	margin-top: -30px;
-	margin-right:1px;
-	background-color: rgba(252,243,50,0.5);
-}
-
-.education {
-	padding: 72px 25px;
-	margin-top: -30px;
-	margin-right:1px;
-	background-color: rgba(75,197,206,0.5);
-}
-
-.testing {
-	padding: 72px 25px;
-	margin-top: -30px;
-	margin-right:1px;
-	background-color: rgba(176,216,64,0.5);
-}
-
-
-
 
 img {
 	width:50%;
 }
 
+.subheader {
+	color: white;
+	line-height: 
+}
+
+.consultations p {
+	line-height: 1.5;
+}
+h6 {
+	color: white;
+}
+
+a {
+	color:#B7D9DB ;
+}
 footer {
 	text-align: center;
 }
-
